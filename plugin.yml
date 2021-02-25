@@ -1,0 +1,12 @@
+main: com.TrickShotDev.PexChatFormatter.PexChatFormatter
+name: PexChatFormatter
+version: 1.1
+author: TrickShotDev
+description: Pex Chat Plugin
+depend: [PermissionsEx]
+commands:
+    pexchatformatter:
+      description: Main Command
+      usage: /pexchatformatter
+      permission: PexChatFormatter.base
+      permission-message: You don't have the permission PexChatFormatter.base.
