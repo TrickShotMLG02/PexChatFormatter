@@ -21,12 +21,10 @@ The only command is /pexchatformatter reload to reload the config file
 
 # Exampleconfiguration
 
-[SPOILER="Config.yml"]
-[code=YAML]ShowPrefix: true
+ShowPrefix: true
 ShowSuffix: true
 ChatFormat: ${Prefix} ${Playername} ${Suffix} ${Divider} ${Message}
-ChatDivider: '&b>>&7'[/code]
-[/SPOILER]
+ChatDivider: '&b>>&7'
 
 
 
